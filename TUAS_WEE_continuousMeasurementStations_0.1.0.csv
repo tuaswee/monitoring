@@ -1,0 +1,14 @@
+﻿lat;lon;location_accuracy;station_code;station_name;station_type;project;device;data_transfer;data_storage;frequency_min;meas_start;meas_end;notes;markercolor;markersize
+60.47094596;22.22884003;Approximate;NA;Lansikeskus_Tulo;Pressure (bar);UrbanStormwaterRisk/ISMO;Keller;ARC1 GSM;Kolibricloud.ch;2;8.2.2022;Active;Check coordinates;blue;medium
+60.47083341;22.22874271;Approximate;NA;Lansikeskus_Lahto;Pressure (bar);UrbanStormwaterRisk/ISMO;Keller;ARC1 GSM;Kolibricloud.ch;2;8.2.2022;Active;Check coordinates;blue;medium
+60.46976069;22.40482188;Approximate;NA;Avanti Tulo;Pressure (bar);UrbanStormwaterRisk;Keller;ARC1 GSM;Kolibricloud.ch;4;3.6.2022;Active;Check coordinates;blue;medium
+60.46953785;22.40448911;Approximate;NA;Avanti Lahto;Pressure (bar);UrbanStormwaterRisk;Keller;ARC1 GSM;Kolibricloud.ch;4;3.6.2022;Active;Check coordinates;blue;medium
+60.31392056;22.29513333;Accurate;NA;Bläsnäs blue-green algae;Phycocyanin fluorescence, temperature;NA;Trios Micro Flu Blue;NA;Luode dataservice;NA;NA;Inactive;NA;orange;medium
+60.19821722;21.91073528;Accurate;NA;Framnäs blue-green algae;Phycocyanin fluorescence, temperature;NA;Trios Micro Flu Blue;NA;Luode dataservice;NA;NA;Inactive;NA;orange;medium
+60.58332778;22.36123917;Accurate;UR16SA;UR16SA;Pressure (bar);Rakennekalkki;Keller;ARC1 GSM;Kolibricloud.ch;10;17.3.2021;Active;NA;blue;medium
+60.58351111;22.36139944;Accurate;URO17SA;URO17SA;Pressure (bar);Rakennekalkki;Keller;ARC1 GSM;Kolibricloud.ch;10;31.3.2021;Active;NA;blue;medium
+60.55890861;22.32584583;Accurate;AIL6SA;AIL6SA;Pressure (bar);Rakennekalkki;Keller;ARC1 GSM;Kolibricloud.ch;10;1.4.2021;Active;NA;blue;medium
+60.55744472;22.32473056;Accurate;AIL7SA;AIL7SA;Pressure (bar);Rakennekalkki;Keller;ARC1 GSM;Kolibricloud.ch;10;17.3.2021;Active;NA;blue;medium
+60.55652472;22.3233475;Accurate;AIL5SA;AIL5SA;Pressure (bar);Rakennekalkki;Keller;ARC1 GSM;Kolibricloud.ch;10;26.11.2021;Active;NA;blue;medium
+60.25579389;21.95012639;Accurate;NA;Poiju;Multiparameter sonde;NA;YSI;NA;NA;NA;NA;Inactive;NA;orange;medium
+60.43687833;22.41246066;Accurate;NA;Kaarina_Teerimäki;Multiparameter sonde;Työmaavesi;YSI Exo3;Storm;NA;NA;25.4.2023;Active;NA;blue;medium
